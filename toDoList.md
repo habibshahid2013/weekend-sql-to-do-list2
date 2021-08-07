@@ -29,7 +29,7 @@
 [X] Install and set up body parser
 
 ## Other Pre-work
-[] Create a Database `weekend-to-do-app`
+[] Create a Database `DR`
 [] Create a database file database.sql
 []
 []
