@@ -1,5 +1,5 @@
 const express = require('express');
-const router = express.Router();
+const todoRouter = express.Router();
 
 // DB CONNECTION
 
@@ -15,4 +15,4 @@ const router = express.Router();
 
 // DELETE
 
-module.exports = router;
+module.exports = todoRouter;
